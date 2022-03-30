@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano Schmidt</h1>
 <h3 align="center">Full Stack Web Developer From Buenos Aires, Argentina</h3>
-<h4 align="center">Welcome to my GitHub Profile, I love the developementm, im glad to can work of this and still learning</h4>
+<h4 align="center">Welcome to my GitHub Profile, I love the developement, im glad to can work of this and still learning</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
